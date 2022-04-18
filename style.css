@@ -1,0 +1,19 @@
+.heading{
+    width:80%;
+    font-size:22px;
+
+}
+#camera{
+    border:2px dotted black;
+    width:350px;
+    height:350px;
+}
+.objects,#result_name,#match{
+    color:rgb(255, 191, 0);
+    font-size:20px;
+    
+}
+body{
+    color:white;
+    background: linear-gradient(rgb(245, 74, 102),rgb(240, 162, 18));
+}
